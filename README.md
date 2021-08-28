@@ -1,4 +1,4 @@
-# Continuous Integration across multiple Cloud Hosting Services
+# Continuous Integration Across AWS | GCP | Azure
 
 ## Week 3 Project for Cloud Computing Foundations
 * The goal of this project is become familiar with Azure, GCP, and AWS continuous integration with Github and GitHub actions. This includes:
@@ -14,3 +14,5 @@ Build Status Badges:
 [![GCP Python 3.7](https://github.com/linkparabole/azurehello/actions/workflows/gcp%20test.yml/badge.svg)](https://github.com/linkparabole/azurehello/actions/workflows/gcp%20test.yml)
 
 [![AWS 3.6.14](https://github.com/linkparabole/azurehello/actions/workflows/AWS.yml/badge.svg)](https://github.com/linkparabole/azurehello/actions/workflows/AWS.yml)
+
+
