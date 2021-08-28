@@ -12,3 +12,5 @@ Build Status Badges:
 [![Azure: Python 3.5 w/Github Actions](https://github.com/linkparabole/azurehello/actions/workflows/main.yml/badge.svg)](https://github.com/linkparabole/azurehello/actions/workflows/main.yml)
 
 [![GCP Python 3.7](https://github.com/linkparabole/azurehello/actions/workflows/gcp%20test.yml/badge.svg)](https://github.com/linkparabole/azurehello/actions/workflows/gcp%20test.yml)
+
+[![AWS 3.6.14](https://github.com/linkparabole/azurehello/actions/workflows/AWS.yml/badge.svg)](https://github.com/linkparabole/azurehello/actions/workflows/AWS.yml)
